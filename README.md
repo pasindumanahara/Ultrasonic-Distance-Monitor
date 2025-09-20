@@ -4,8 +4,9 @@ Real-time distance measurement & visualization with Python!
 
 ## 🔌 Circuit Diagram
 
-![Ultrasonic Sensor Circuit](circuit.png)
-*Circuit setup made in Tinkercad.*
+<img src="your-image.png" alt="*Circuit setup made in Tinkercad.*" width="300">
+
+
 
 🚀 Highlights
 
