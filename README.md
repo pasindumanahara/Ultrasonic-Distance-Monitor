@@ -4,7 +4,7 @@ Real-time distance measurement & visualization with Python!
 
 ## 🔌 Circuit Diagram
 
-<img src="your-image.png" alt="*Circuit setup made in Tinkercad.*" width="300">
+<img src="circuit.png" alt="*Circuit setup made in Tinkercad.*" width="600">
 
 
 
