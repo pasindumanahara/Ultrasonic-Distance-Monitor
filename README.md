@@ -4,7 +4,7 @@ Real-time distance measurement & visualization with Python!
 
 ## 🔌 Circuit Diagram
 
-![Ultrasonic Sensor Circuit](images/circuit.png)
+![Ultrasonic Sensor Circuit](circuit.png)
 *Circuit setup made in Tinkercad.*
 
 🚀 Highlights
@@ -19,16 +19,16 @@ Real-time distance measurement & visualization with Python!
 
 ⚙️ How It Works
 
-Ultrasonic sensor sends a pulse → receives echo.
-
-Python reads distance via serial communication.
-
-Distance is plotted live using matplotlib.
+  Ultrasonic sensor sends a pulse → receives echo.
+  
+  Python reads distance via serial communication.
+  
+  Distance is plotted live using matplotlib.
 
 🛠️ Get Started
-git clone https://github.com/yourusername/ultrasonic-distance-monitor.git
-pip install pyserial matplotlib numpy
-python distance_plot.py
+  git clone https://github.com/pasindumanahara/ultrasonic-distance-monitor.git
+  pip install pyserial matplotlib numpy
+  python distance_plot.py
 
 📸 Preview
 
