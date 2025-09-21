@@ -4,7 +4,9 @@ Real-time distance measurement & visualization with Python!
 
 ## 🔌 Circuit Diagram
 
-<img src="circuit.png" alt="*Circuit setup made in Tinkercad.*" width="600">
+<span><img src="circuit.png" alt="*Circuit setup made in Tinkercad.*" width="400"></span>
+<span><img src="graph.png" alt="*Real time plotting with matlib python3.*" width="328"></span>
+
 
 
 
