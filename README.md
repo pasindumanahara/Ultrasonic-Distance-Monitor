@@ -7,7 +7,7 @@ Each project is organized in its own folder with its own README containing detai
 
 ## 📂 Projects List
 
-- [Ultrasonic Sensor - Realtime plotting with python](Arduino-Projects/Ultrasonic-Sensor-Realtime-Plotting/README.md) – Distance plotting with python matplotlib
+- [Ultrasonic Sensor - Realtime plotting with python](Arduino-Projects/Ultrasonic-Sensor-Realtime-Plotting/) – Distance plotting with python matplotlib
   
 
 ---
