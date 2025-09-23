@@ -1,4 +1,4 @@
-# Arduino Projects Hub ⚡
+# Arduino Projects ⚡
 
 Welcome! This repository contains my **Arduino projects** and experiments.  
 Each project is organized in its own folder with its own README containing details, code, and instructions.
